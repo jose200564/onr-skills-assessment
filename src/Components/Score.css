@@ -1,0 +1,20 @@
+.score{
+    display: flex;
+    flex-direction: row;
+    padding-left: 310px;
+    padding-top: 5px;
+}
+
+.card{
+    width: 100px;
+    margin-right: 300px;
+}
+
+h5{
+    color: rgba(0, 0, 0, 0.404);
+}
+
+.buttons{
+    padding: 13px;
+}
+

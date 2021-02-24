@@ -1,0 +1,101 @@
+
+
+.header_top{
+    background-color: rgb(0, 68, 255);
+    color: white;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    margin-left: 35px;
+}
+
+.header_top > h4{
+    margin: 0px;
+    padding: 6px;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    margin-left: 870px;
+
+}
+
+.icons > h6{
+    margin: 0px;
+    padding: 6px;
+    padding-top: 10px;
+}
+
+.icon{
+    padding: 6px;
+    margin-left: 10px;
+}
+
+hr{
+    height: 20px;
+    margin-top: 5px;
+    
+}
+
+.verticalicons{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(7, 7, 167);
+    color: white;
+    width: 35px;
+    height: 100%;
+}
+
+.iconv{
+    padding: 6px;
+    margin-top: 20px;
+}
+
+.iconv1{
+    padding: 6px;
+    margin-top: 40px;
+}
+
+.header_middle{
+    margin-left: 310px;
+    
+
+}
+
+.header_bottom{
+    background-color: rgb(247, 239, 239);
+    height: 35px;
+    width: 100%;
+    display: inline-table;
+    
+    
+    
+
+}
+
+.diagnostic{
+    display: flex;
+    flex-direction: row;
+    color: rgba(36, 34, 34, 0.404);
+    margin-left: 300px;
+    text-align: center;
+   
+}
+
+.diagnostic > h2{
+    text-align: center;
+}
+
+.iconc{
+    padding: 6px;
+    margin-top: 20px;
+    margin-left: 600px;
+    color: rgb(183, 226, 235);
+}
+
+
+
